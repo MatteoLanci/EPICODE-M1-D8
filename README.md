@@ -6,4 +6,4 @@ It represents a faithful Medium.com Homepage replica builded using HTML5 and CSS
 
 This is a tribute to all my classmates, teachers and staff members pointing to thank everyone for this fantastic journey, enjoy.
 
-LIVE PREVIEW here: 
+LIVE PREVIEW here: https://matteolanci.github.io/EPICODE-M1-D8/
